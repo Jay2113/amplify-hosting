@@ -36,3 +36,5 @@ Looking for one of our other projects?
 - [Amplify Android](https://github.com/aws-amplify/amplify-android/issues)
 - [Amplify CLI](https://github.com/aws-amplify/amplify-cli/issues)
 - [Amplify Discord](https://discord.com/invite/amplify)
+
+Tihs is a test to reviw spellcheck on pull reqests.
